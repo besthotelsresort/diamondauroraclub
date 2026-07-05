@@ -1,0 +1,2 @@
+# diamondauroraclub
+Static site: diamondauroraclub
