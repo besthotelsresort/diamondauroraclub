@@ -1,0 +1,4 @@
+Contact: mailto:security@diamondauroraclub.example
+Expires: 2027-07-05T19:29:56.668Z
+Preferred-Languages: en, de, fr
+Canonical: https://diamondauroraclub.onrender.com/.well-known/security.txt
